@@ -84,8 +84,3 @@ The predicted label ("Cat" or "Dog") will be displayed on the image window.
   methods or a deep learning model like CNN.
 
 ----------------------------------------------
-✨ Author
-----------------------------------------------
-V. Madhan Raj
-Machine Learning Intern - SkillCraft Technology
-GitHub: https://github.com/madhan90258
